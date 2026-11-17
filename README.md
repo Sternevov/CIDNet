@@ -1,13 +1,8 @@
 # CIDNet: Causal Intervention for Debiased Weakly Supervised Referring Expression Comprehension
 
-* This repo is the official implementation of the paper "CIDNet: Causal Intervention for Debiased Weakly Supervised Referring Expression Comprehension"
+* This repo is the official implementation of the paper [**"CIDNet: Causal Intervention for Debiased Weakly Supervised Referring Expression Comprehension"**](https://authors.elsevier.com/a/1o7Ck5aecT12IG)
 
-## 📋 Prerequisites
-
-- Linux (or WSL)
-- [Anaconda](https://www.anaconda.com/) / Miniconda
-- CUDA 11.3 compatible GPU
-- Git
+![framework](figs/framework.jpg)
 
 ## 🚀 Installation
 
