@@ -110,9 +110,19 @@ python test.py --config ./config/[DATASET_NAME].yaml --eval-weights [PATH_TO_CHE
 - Replace `[PATH_TO_CHECKPOINT_FILE]` with the actual path to your trained checkpoint.
 - Make sure the YoloV3 pretrained weights path in the config files matches where you placed the file.
 
-## 📄 License
+## 📚 Citation
 
-Please refer to the original repository for license information.
+If you find this work useful for your research, please consider citing:
+
+```bibtex
+@article{zhou2026cidnet,
+  title={CIDNet: Causal intervention for debiased weakly supervised referring expression comprehension},
+  author={Zhou, Xuanyu and Zhang, Simin and Peng, Mingyue and Huang, Shuzhen and Cao, Yihong and Lu, Xiao},
+  journal={Applied Soft Computing},
+  pages={116806},
+  year={2026},
+  publisher={Elsevier}
+}
 
 
 
